@@ -2,5 +2,4 @@
 
 ![](./design/screenshot-desktop.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zwuk0.github.io/base-apparel-coming-soon-master/](https://zwuk0.github.io/base-apparel-coming-soon-master/)
