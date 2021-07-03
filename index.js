@@ -13,7 +13,6 @@ const input = document.getElementById("email");
 const btn = document.getElementById("btn");
 
 btn.addEventListener("click", function () {
-  ValidateEmail(input);
   if (ValidateEmail(input) === false) {
     error.classList.toggle("error-toggle");
   }
